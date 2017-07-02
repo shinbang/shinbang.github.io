@@ -1,12 +1,11 @@
 # Welcome to Jekyll!
 #
 
-# Site settings
-title: Beauty of Ulleungdo
-description: |
-  Ulleungdo!!!. Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-owner: JaYeon Kim # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+# Site settings 
+title: Realist's Textbook
+description: | Learn Economy, Computer, Mind, Relationship And More From This Website that School Doesn't Teach
+owner: | Bihan Lee & JaYeon Kim 
+first_published: 2017 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
