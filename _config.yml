@@ -3,8 +3,10 @@
 
 # Site settings 
 title: Realist's Textbook
-description: | Learn Economy, Computer, Mind, Relationship And More From This Website that School Doesn't Teach
-owner: | Bihan Lee & JaYeon Kim 
+description: |
+  Learn Economy, Computer, Mind, Relationship And More From This Website
+  > (Things That School Doesn't Teach !)
+owner: "Bihan Lee & JaYeon Kim "
 first_published: 2017 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
